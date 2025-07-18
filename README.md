@@ -7,11 +7,11 @@
 ## 📸 Screenshots 
 
 #### 🖼️ Main Interface 
-![Main UI](https://github.com/Turja1347/shield_mail/blob/246f5e6b48069dd452838f4bc43b193e757e583e/Screenshot%202025-07-06%20035905.png?raw=true)
+![Main UI](https://github.com/Turja1347/ShieldMail/blob/f499db86c4e66b07df5f6be214584fed1aaca1e2/Screenshot%202025-07-06%20035905.png)
 
 #### 🔍 Spam Detection Output   
-![Spam Output 1](https://github.com/Turja1347/shield_mail/blob/246f5e6b48069dd452838f4bc43b193e757e583e/Screenshot%202025-07-06%20003255.png?raw=true)  
-![Spam Output 2](https://github.com/Turja1347/shield_mail/blob/246f5e6b48069dd452838f4bc43b193e757e583e/Screenshot%202025-07-06%20003329.png?raw=true)
+![Spam Output 1](https://github.com/Turja1347/ShieldMail/blob/f499db86c4e66b07df5f6be214584fed1aaca1e2/Screenshot%202025-07-06%20003255.png)  
+![Spam Output 2](https://github.com/Turja1347/ShieldMail/blob/f499db86c4e66b07df5f6be214584fed1aaca1e2/Screenshot%202025-07-06%20003329.png)
 
 ## 📦 Features
 - 🧠 Spam detection powered by **Multinomial Naive Bayes**
